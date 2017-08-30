@@ -65,6 +65,19 @@ namespace Module04_ReferenceTypes
 
                 System.Text.StringBuilder sb = new System.Text.StringBuilder(); //designet til strengmanipulation i løkker/loops
 
+                int y = 0;
+
+                bool f = false;
+
+                if (y>0 && f==false)
+                {
+
+                }
+                else
+                {
+
+                }
+
                 if (System.Diagnostics.Debugger.IsAttached)
             {
 
