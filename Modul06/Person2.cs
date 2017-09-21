@@ -1,20 +1,13 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Modul06
-
 {
-    class Program
+    internal partial class Person
     {
-        static void Main(string[] args)
-        {
-
-        }
+        public string koen;
     }
-
-
 }
